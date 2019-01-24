@@ -1,0 +1,969 @@
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+G:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+C:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmaccountsRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+G:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+C:\Users\AICSES\Documents\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+F:\SGBITHMS\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFine.resources
+C:\Users\Public\Documents\SGBITHMS V 1.02\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFineRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.03\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+F:\SGBITHMS V 1.03\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+F:\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+F:\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+C:\Users\Public\Documents\SGBITHMS V 1.04\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+J:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+J:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.config
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe.manifest
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.application
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.exe
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.pdb
+G:\SGBITHMS V 1.05\HostelManagementSystem\bin\Debug\HostelManagementSystem.xml
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojResolveAssemblyReference.cache
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.Cache
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe.manifest
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.application
+G:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomAllotmentDetails.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbprojAssemblyReference.cache
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcession.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmConcessionRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDataBackUp.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOut.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueChargesReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestCheckOut.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestReAllocate.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistration.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmGuestRegistrationRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbies.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHobbiesRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmReAllocate.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefund.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRefundRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomAllotmentDetails.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomChange.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAbout.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountRecordReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmAccountsRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmCheckOutRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueCharges.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueDate.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePayment.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmDueFeePaymentReceipt.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServices.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmExtraServicesRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostel.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerForm.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelerReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucher.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVoucherReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPaymentVouchersReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryRecord1.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchasedInventoryReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotation.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmQuotationReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegCharges.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServicesRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransaction.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionRecord1.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmTransactionReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmChangePassword.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePayment.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReceipt.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentRecord1.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelers.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmHostelersRecord1.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmServices.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLogin.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmLoginDetails.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmMain.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPasswordRecovery.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.FrmPrintOptions.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmPurchaseInventory.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistration.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRegistrationDetails.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoom.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmRoomRecord.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSystemInfo.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.Resources.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmSplash.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.frmFeePaymentReport.resources
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.GenerateResource.cache
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.vbproj.CoreCompileInputs.cache
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.exe
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.xml
+E:\SGBITHMS V 1.05\HostelManagementSystem\obj\x86\Debug\HostelManagementSystem.pdb
